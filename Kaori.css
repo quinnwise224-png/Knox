@@ -3,57 +3,7 @@
 * {
     margin: 0;
     padding: 0;
-    box-           <section class="person-card" id="person-Kaori-Lee">
-                <div class="avatar-zone">
-                    <div class="avatar-icon animated-avatar pulse-soft">
-                        🤖
-                    </div>
-                    <div class="avatar-choice-badge">
-                        🤖 robot buddy (animated)
-                    </div>
-                </div>
-                <div class="person-details">
-                    <h2>Kaori-Lee <span class="username">(@kosgi16)</span></h2>
-
-                    <div class="aspiration-block">
-                        <h3>🌱 aspirations</h3>
-                        <p>I want to create something out of  what I learning from the coding languages taught to me.</p>
-                    </div>
-                    <div class="interests-block">
-                        <h3>🎯 interests</h3>
-                        <ul class="interests-list">
-                            <li>🕹️ Gaming</li>
-                            <li>🏎️ Cars</li>
-                            <li>☄️ Meterology</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="pets-collection">
-                    <h3>🐾 pets</h3>
-                    <div class="pet-card">
-                        <div class="pet-img emoji-pet">🐶</div>
-                        <div class="pet-info">
-                            <div class="pet-name">Haze</div>
-                        </div>
-                    </div>
-                    <!-- Austin's second pet, just to show variety -->
-                    <div class="pet-card">
-                        <div class="pet-img emoji-pet">🐈</div>
-                        <div class="pet-info">
-                            <div class="pet-name">ZigZag</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="extra-creative">
-                    <h3> 🎯Fun facts </h3>
-                    <p> I know a lot about cars</p>
-                </div>
-                 <div class="extra-creative">
-                    <h3>🧠 currently learning</h3>
-                    <p> HTML . CSS . Python</p>
-                </div>
-            </section>
-: border-box;
+    box-sizing: border-box;
 }
 
 body {
@@ -404,3 +354,5 @@ code {
     }
     .person-details h2 {
         font-size: 1.5rem;
+    }
+}
